@@ -9,7 +9,7 @@
     display: grid;
     grid-template:
       'header     header    header' auto
-      'left-menu  main      right-menu' 1fr
+      'left-menu  main      right-menu' 1fr 
       'footer     footer    footer' auto /
       auto 1fr auto;
   }
